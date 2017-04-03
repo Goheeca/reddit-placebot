@@ -1,2 +1,2 @@
-npm run start --czechTarget
+npm run czechTarget
 read
