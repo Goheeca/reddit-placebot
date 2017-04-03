@@ -1,2 +1,2 @@
-npm run start --argentinaTarget
+npm run start --czechTarget
 pause

@@ -8,7 +8,7 @@
     "start": "node src/run.js --harmony",
     "watch": "nodemon --harmony ./src/run.js -i queues.json -i cookies.json",
     "test": "mocha",
-    "argentinaTarget": "node src/run.js --remote --startX 0 --startY 0 --target https://raw.githubusercontent.com/Zequez/placebot-argentina-target/master/official_target.png"
+    "czechTarget": "node src/run.js --remote --startX 0 --startY 0 --target https://raw.githubusercontent.com/Goheeca/placebot-czech-target/master/target.png"
   },
   "author": "",
   "license": "MIT",
